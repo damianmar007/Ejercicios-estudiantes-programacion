@@ -1,10 +1,13 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
+
 void CARGA(int[],int);
 void MOSTRAR(int[],int);
 void MOSTRARI(int[],int);
 void ORDENA(int[],int);
+
 
 int main(){
 	
